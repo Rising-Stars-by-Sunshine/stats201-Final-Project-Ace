@@ -1,4 +1,4 @@
-# Title COVID and Online Jobs
+# COVID and Online Jobs
 ## Project information
 - **Author**: Ace Asim, Ethics and Leadership (Public Policy), Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
