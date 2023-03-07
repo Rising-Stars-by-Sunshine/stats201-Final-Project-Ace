@@ -55,9 +55,12 @@ Ace Asim is a student at Duke Kunshan University majoring in Ethics and Leadersh
 
 ![Ace in Barcelona, December 2022](https://user-images.githubusercontent.com/122700704/214361081-16216840-72e8-4439-930d-35d32c82322f.JPG)
 
-**Sample Course Projects**
+### Sample Course Projects
+
 [Problem Set 1](rising-stars-by-sunshine.github.io/stats201-PS1-Ace/)
+
 [Problem Set 2](rising-stars-by-sunshine.github.io/stats201-PS2-Ace/)
+
 [Final Project](rising-stars-by-sunshine.github.io/stats201-Final-Project-Ace/)
 
 
