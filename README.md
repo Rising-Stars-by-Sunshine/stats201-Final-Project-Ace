@@ -16,10 +16,10 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
   - **Methodology**: The data queried in this study is the popularity of the search term "virtual jobs" over the period of March 2018 to February 2023  to provide additional evidence of the trend. The main focus remains to identify any significant changes in the frequency of virtual job postings before and after March 2020, when the COVID-19 pandemic first hit. It is hypothesized that there will be a significant increase in the frequency of virtual job postings after March 2020, and this trend will continue in the future.
   - **Results**: The results of this study provide evidence to support the hypothesis that the COVID-19 pandemic has led to a surge and increase of virtual jobs in the United States, as reflected in the increase of virtual job postings and popularity of the search term "virtual jobs" since March 2020. The upward trend has continued, implying that virtual work is here to stay. 
   - **Intellectual Merits**:
-  -  *Addressing a timely and relevant topic.
-  -  *Contributing to the existing literature.
-  -  *Using data-driven analysis.
-  -  *Highlighting potential implications and considerations for stakeholders, highlighting considerations for policymakers, employers, and workers in adapting to this new trend.
+  -  *Addressing a timely and relevant topic.*
+  -  *Contributing to the existing literature.*
+  -  *Using data-driven analysis.*
+  -  *Highlighting potential implications and considerations for stakeholders, highlighting considerations for policymakers, employers, and workers in adapting to this new trend.*
 
 
 ## Table of Contents
