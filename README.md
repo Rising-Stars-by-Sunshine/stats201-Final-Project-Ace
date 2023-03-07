@@ -8,7 +8,7 @@
 
 The COVID-19 pandemic has had an immeasurable impact on the job market, with numerous companies embracing remote work for the safety of their employees. This has led to a surge in the demand for virtual jobs, especially in industries that can be remote. This study aims to examine if there is a causal relationship between the COVID-19 pandemic and the increase in virtual jobs. From analyzing the popularity of virtual jobs over time, we found the results to support the hypothesis that COVID-19 has led to a spike in the interest in virtual jobs and that this upward trend is likely to persist as corporations become more resourceful in creating online jobs. This study highlights the impact of the pandemic on the job market and the potential benefits of increased flexibility and opportunities for online work.
 
-- Chat GPT's Take:
+- *Chat GPT's Take*:
 
 <img width="746" alt="Screen Shot 2023-03-07 at 6 25 11 PM" src="https://user-images.githubusercontent.com/122700704/223380217-9fecb307-c34e-462d-b4ce-35552a3d249b.png">
 
