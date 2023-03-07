@@ -32,7 +32,7 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 
 ## Data
-- Data Source: [Google Trends: "Virtual Jobs"](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
+- [Data Source: Google Trends | "Virtual Jobs"](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
 - [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Queried_Data)
 - [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Processed_Data)
 
@@ -87,6 +87,7 @@ In conclusion, this course has been a transformative experience, providing me wi
 ### Literature
 
 **Chicago Author-Date Format**
+
 Battisti, Enrico, Simona Alfiero, and Erasmia Leonidou. 2022. “Remote Working and Digital Transformation during the COVID-19 Pandemic: Economic–Financial Impacts and Psychological Drivers for Employees.” Journal of Business Research 150 (June). https://doi.org/10.1016/j.jbusres.2022.06.010.
 
 Brynjolfsson, Erik, John Horton, Adam Ozimek, Daniel Rock, Garima Sharma, and Hong-Yi TuYe. 2020. “COVID-19 and Remote Work: An Early Look at US Data.” National Bureau of Economic Research, June. https://doi.org/10.3386/w27344.
