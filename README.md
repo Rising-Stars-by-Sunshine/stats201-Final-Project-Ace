@@ -16,10 +16,10 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
   - **Methodology**: The data queried in this study is the popularity of the search term "virtual jobs" over the period of March 2018 to February 2023  to provide additional evidence of the trend. The main focus remains to identify any significant changes in the frequency of virtual job postings before and after March 2020, when the COVID-19 pandemic first hit. It is hypothesized that there will be a significant increase in the frequency of virtual job postings after March 2020, and this trend will continue in the future.
   - **Results**: The results of this study provide evidence to support the hypothesis that the COVID-19 pandemic has led to a surge and increase of virtual jobs in the United States, as reflected in the increase of virtual job postings and popularity of the search term "virtual jobs" since March 2020. The upward trend has continued, implying that virtual work is here to stay. 
   - **Intellectual Merits**:
-  -  Addressing a timely and relevant topic.
-  -  Contributing to the existing literature.
-  -  Using data-driven analysis.
-  -  Highlighting potential implications and considerations for stakeholders, highlighting considerations for policymakers, employers, and workers in adapting to this new trend.
+  -  *Addressing a timely and relevant topic.
+  -  *Contributing to the existing literature.
+  -  *Using data-driven analysis.
+  -  *Highlighting potential implications and considerations for stakeholders, highlighting considerations for policymakers, employers, and workers in adapting to this new trend.
 
 
 ## Table of Contents
@@ -35,14 +35,12 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 - Data Source: [Google Trends: "Virtual Jobs"](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
 - [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Queried_Data)
 - [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Processed_Data)
-- ...
 
 
 ## Code
 - [Query Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Query_Data.ipynb)
 - [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Process_Data.ipynb)
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Analyze_Data.ipynb)
-- ...
 
 ## Spotlight
 
@@ -81,7 +79,6 @@ In conclusion, this course has been a transformative experience, providing me wi
 ### Code Source
 - [STATS-201 Prediction Code Tutorial](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
-- Article Source Title and URL
 - [“Remote Work Before, During, and after the Pandemic.”](https://www.ncci.com/SecureDocuments/QEB/QEB_Q4_2020_RemoteWork.html)
 - [“A Two-Year, 50-Million-Person Experiment in Changing How We Work.”](https://www.nytimes.com/2022/03/10/business/remote-work-office-life.html)
 - [“Accelerating Remote Work after COVID-19.”](https://www.thecgo.org/research/accelerating-remote-work-after-covid-19/)
