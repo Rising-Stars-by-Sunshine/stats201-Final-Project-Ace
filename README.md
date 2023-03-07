@@ -12,10 +12,15 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 <img width="746" alt="Screen Shot 2023-03-07 at 6 25 11 PM" src="https://user-images.githubusercontent.com/122700704/223380217-9fecb307-c34e-462d-b4ce-35552a3d249b.png">
 
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+  - **Application Scenario**: Not only is this information significant for workers and employers, but also for policymakers. From here, employers need to adopt new practices to manage and evaluate remote workers. Workers need to acquire new skills to succeed in virtual work environments. Policymakers need to adjust policies to support remote work. This study highlights the importance of resourcefulness and adaptation in the face of the unexpected (Tomić and Vizinger 2023).
+  - **Methodology**: The data queried in this study is the popularity of the search term "virtual jobs" over the period of March 2018 to February 2023  to provide additional evidence of the trend. The main focus remains to identify any significant changes in the frequency of virtual job postings before and after March 2020, when the COVID-19 pandemic first hit. It is hypothesized that there will be a significant increase in the frequency of virtual job postings after March 2020, and this trend will continue in the future.
+  - **Results**: The results of this study provide evidence to support the hypothesis that the COVID-19 pandemic has led to a surge and increase of virtual jobs in the United States, as reflected in the increase of virtual job postings and popularity of the search term "virtual jobs" since March 2020. The upward trend has continued, implying that virtual work is here to stay. 
+  - **Intellectual Merits**:
+  -  Addressing a timely and relevant topic.
+  -  Contributing to the existing literature.
+  -  Using data-driven analysis.
+  -  Highlighting potential implications and considerations for stakeholders, highlighting considerations for policymakers, employers, and workers in adapting to this new trend.
+
 
 ## Table of Contents
 - data
@@ -27,7 +32,7 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 
 ## Data
-- Data Source: 
+- Data Source: Google. 2023. “Google Trends.” Google Trends. February 28, 2023. https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work.
 - Queried Data
 - Processed Data
 - ...
@@ -57,7 +62,8 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- *"Virtual Work" Search Popularity*
+- Google. 2023. “Google Trends.” Google Trends. February 28, 2023. https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work.
 ### Code Source
 - Code Source Title and URL
 ### Articles
