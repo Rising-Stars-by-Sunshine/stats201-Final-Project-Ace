@@ -5,10 +5,12 @@
 - **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Acknowledgements to Prof. Luyao Zhang and Ava Baker whom this project could not be done without.
 - **Project Summary**: 
+
 The COVID-19 pandemic has had an immeasurable impact on the job market, with numerous companies embracing remote work for the safety of their employees. This has led to a surge in the demand for virtual jobs, especially in industries that can be remote. This study aims to examine if there is a causal relationship between the COVID-19 pandemic and the increase in virtual jobs. From analyzing the popularity of virtual jobs over time, we found the results to support the hypothesis that COVID-19 has led to a spike in the interest in virtual jobs and that this upward trend is likely to persist as corporations become more resourceful in creating online jobs. This study highlights the impact of the pandemic on the job market and the potential benefits of increased flexibility and opportunities for online work.
 
- 
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
+- Chat GPT's Take:
+
+<img width="746" alt="Screen Shot 2023-03-07 at 6 25 11 PM" src="https://user-images.githubusercontent.com/122700704/223380217-9fecb307-c34e-462d-b4ce-35552a3d249b.png">
 
   - [Application Scenario (Data Source)]
   - [Methodology]
@@ -25,7 +27,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 
 ## Data
-- Data Source:
+- Data Source: 
 - Queried Data
 - Processed Data
 - ...
@@ -38,12 +40,9 @@ Note: please insert the screenshot of the answers to your research question by C
 - ...
 
 ## Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
+[A. Asim  STATS-201 Final Project.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/files/10907880/A.Asim.STATS-201.Final.Project.pdf)
+
 
 ## More about the Author
 - headshot
