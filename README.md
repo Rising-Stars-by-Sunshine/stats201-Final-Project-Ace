@@ -38,7 +38,6 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 | All Data Used  | 
 | ------------- |
-| [Data Source: Google Trends: "Virtual Jobs"](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)  | 
 | [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Queried_Data)  |
 | [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Processed_Data)  |
 
