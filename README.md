@@ -79,6 +79,7 @@ In conclusion, this course has been a transformative experience, providing me wi
 
 ### Data Source
 - [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
+- [NYC Jobs Dataset](https://catalog.data.gov/dataset/nyc-jobs)
 ### Code Source
 - [STATS-201 Prediction Code Tutorial](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
