@@ -23,11 +23,11 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 
 ## Table of Contents
-- [data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data)
-- [code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/code)
-- [spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/spotlight)
-- more about the author
-- references
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/spotlight)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/moreabouttheauthor)
+- [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/references)
 
 
 
