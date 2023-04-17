@@ -52,7 +52,7 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 Figure 1 depicts a random forest regression analysis that demonstrates the relationship between time and the popularity of virtual jobs. The random forest algorithm is a machine-learning technique that uses decision trees to build a predictive model. By using multiple decision trees and combining their predictions, the model can generate more accurate and reliable results than a single decision tree. The plot in Figure 1 provides insight into the strength and character of this relationship, allowing for a better understanding of the trends and patterns in virtual job popularity over time.
 
-**Figure 2: Word Cloud*
+**Figure 2: Word Cloud**
 
 ![image](https://user-images.githubusercontent.com/122700704/232258618-fc68e152-4d45-4fae-9537-648a4b6079c5.png)
 
