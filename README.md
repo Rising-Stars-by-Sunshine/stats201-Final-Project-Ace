@@ -23,24 +23,34 @@ The COVID-19 pandemic has had an immeasurable impact on the job market, with num
 
 
 ## Table of Contents
-- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/spotlight)
-- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/moreabouttheauthor)
-- [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/references)
+
+| Get Where You Need to Go  | 
+| ------------- |
+| [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data)  | 
+| [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/code)  |
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/spotlight)  |
+| [More about the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/moreabouttheauthor)  |
+| [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/references)  |
 
 
 
 ## Data
-- [Data Source: Google Trends: "Virtual Jobs"](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Queried_Data)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Processed_Data)
+
+| All Data Used  | 
+| ------------- |
+| [Data Source: Google Trends: "Virtual Jobs"](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)  | 
+| [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Queried_Data)  |
+| [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/tree/main/data/Processed_Data)  |
+
 
 
 ## Code
-- [Query Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Query_Data.ipynb)
-- [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Process_Data.ipynb)
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Analyze_Data.ipynb)
+
+| All Code Used  | 
+| ------------- |
+| [Query Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Query_Data.ipynb)  | 
+| [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Process_Data.ipynb)  |
+| [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/blob/main/code/Analyze_Data.ipynb)  |
 
 ## Spotlight
 
