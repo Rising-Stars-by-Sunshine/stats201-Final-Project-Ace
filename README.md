@@ -74,6 +74,8 @@ Figure 2 displays a word cloud that visualizes the frequency of words used throu
 [A. Asim: STATS-201 Final Project -- PDF Version](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/files/10907880/A.Asim.STATS-201.Final.Project.pdf)
 
 
+
+
 ## More about the Author
 
 Ace Asim is a student at Duke Kunshan University majoring in Ethics and Leadership, Public Policy. His academic interests lay in ethics, law, and their intersection with software and Artificial Intelligence. He has previous experience working with R Programming for Statistics and is beginning his journey with Python. He wants to use his knowledge of programming and ethics to explore how Artificial Intelligence can become a useful, safe tool for the world.
