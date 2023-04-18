@@ -73,7 +73,7 @@ Figure 2 displays a word cloud that visualizes the frequency of words used throu
 
 ![image](https://user-images.githubusercontent.com/122700704/232659154-4bc58c5b-fd8b-4e5a-8066-ca4061d70d06.png)
 
-*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work) Created By: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work) Created By: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)*
 
 Figure 3's regression analysis displays a steeper slope after COVID-19 quarantine orders in the US were placed (March 12, 2020) compared to before, indicating that there was a significant increase in the search popularity of "remote jobs" following the onset of the pandemic (Jacobsen and Jacobsen 2020). This is consistent with the fact that many people were forced to work from home as a result of the pandemic, and others may have been looking for alternative work arrangements due to economic uncertainty. It's also worth noting that the graph may reflect not only a change in people's behavior but also a change in how they search for information. Specifically, people may have been more likely to search for "remote jobs" specifically because of the pandemic, whereas they may have used different search terms in the past. Overall, the graph suggests that the COVID pandemic had a significant impact on the search popularity of "remote jobs," and this may reflect broader changes in how people work and seek employment.
 
@@ -105,7 +105,7 @@ Figure 6 displays the search volume trend for the term "remote jobs" over a peri
 
 ![Cybersecurity, AI Ethics Analysis](https://user-images.githubusercontent.com/122700704/232665080-d454b549-3f4d-41c8-8d66-c0212f6fd149.png)
 
-*Source: [Cybersecurity Jobs Report](https://cybersecurityventures.com/jobs/) Created By: [Canva](https://www.canva.com/)
+*Source: [Cybersecurity Jobs Report](https://cybersecurityventures.com/jobs/) Created By: [Canva](https://www.canva.com/)*
 
 Another critical aspect to consider in the virtual job market is cybersecurity. With the increasing reliance on technology, the need for cybersecurity professionals is growing rapidly. A study conducted in 2019 by Morgan Frank found that tech workers are increasingly taking on cybersecurity responsibilities. This shift is reflected in the data, with the number of unfilled cybersecurity positions increasing from 1 million in 2014 to 3.5 million in 2021, a 31% increase over the past decade, compared to a 4% increase in other IT positions. This trend is set to continue, with cybersecurity predicted to be one of the fastest-growing industries in the next decade. It is also worth noting that cybersecurity professionals will need to grapple with ethical considerations as the use of AI becomes more prevalent in the field (Morgan 2019). Ensuring that AI systems are transparent, accountable, and aligned with ethical principles is crucial for maintaining trust in the technology and safeguarding against potential abuses. As the demand for cybersecurity professionals continues to grow, so too will the need for AI ethics experts who can help ensure that these technologies are used responsibly and ethically.
 
