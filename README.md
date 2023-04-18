@@ -69,6 +69,12 @@ Figure 1 depicts a random forest regression analysis that demonstrates the relat
 
 Figure 2 displays a word cloud that visualizes the frequency of words used throughout relevant literature. In this case, the word cloud depicts the most commonly used terms in research related to remote work and virtual jobs. The larger the word appears in the cloud, the more frequently it is used in the literature. As shown in Figure 2, the words "COVID," "Remote," "Work," and "Pandemic" are the most commonly used terms in this context. A word cloud can be a useful tool for quickly identifying the most salient themes and topics in a large body of text.
 
+**Figure 3: Regression Analysis**
+
+![image](https://user-images.githubusercontent.com/122700704/232659154-4bc58c5b-fd8b-4e5a-8066-ca4061d70d06.png)
+
+*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
+
 ![A  Asim: STATS-201 Final Project](https://user-images.githubusercontent.com/122700704/223381091-2f4d790f-8a92-4fde-818f-d1a0a94d0c98.png)
 
 [A. Asim: STATS-201 Final Project -- PDF Version](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/files/10907880/A.Asim.STATS-201.Final.Project.pdf)
