@@ -73,7 +73,7 @@ Figure 2 displays a word cloud that visualizes the frequency of words used throu
 
 ![image](https://user-images.githubusercontent.com/122700704/232659154-4bc58c5b-fd8b-4e5a-8066-ca4061d70d06.png)
 
-*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
+*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)*
 
 Figure 3's regression analysis displays a steeper slope after COVID-19 quarantine orders in the US were placed (March 12, 2020) compared to before, indicating that there was a significant increase in the search popularity of "remote jobs" following the onset of the pandemic (Jacobsen and Jacobsen 2020). This is consistent with the fact that many people were forced to work from home as a result of the pandemic, and others may have been looking for alternative work arrangements due to economic uncertainty. It's also worth noting that the graph may reflect not only a change in people's behavior but also a change in how they search for information. Specifically, people may have been more likely to search for "remote jobs" specifically because of the pandemic, whereas they may have used different search terms in the past. Overall, the graph suggests that the COVID pandemic had a significant impact on the search popularity of "remote jobs," and this may reflect broader changes in how people work and seek employment.
 
