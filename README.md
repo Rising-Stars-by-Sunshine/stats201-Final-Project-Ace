@@ -165,12 +165,15 @@ Fan, Wen, and Phyllis Moen. 2023. “Ongoing Remote Work, Returning to Working a
 
 Galanti, Teresa, Gloria Guidetti, Eleonora Mazzei, Salvatore Zappalà, and Ferdinando Toscano. 2021. “Work from Home during the COVID-19 Outbreak.” Journal of Occupational & Environmental Medicine 63 (7): 426–32. https://doi.org/10.1097/jom.0000000000002236.
 
-Goldberg, Emma. 2022. “A Two-Year, 50-Million-Person Experiment in Changing How We Work.” The New York Times, March 10, 2022, sec. Business. https://www.nytimes.com/2022/03/10/business/remote-work-office-life.html.
-
 Google. 2023. “Google Trends.” Google Trends. February 28, 2023. https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work.
+
 Gupta, Arpit. 2020. “Accelerating Remote Work after COVID-19.” The CGO. April 30, 2020. https://www.thecgo.org/research/accelerating-remote-work-after-covid-19/.
 
 Jacks, Tim. 2021. “Research on Remote Work in the Era of COVID-19.” Journal of Global Information Technology Management 24 (2): 93–97. https://doi.org/10.1080/1097198x.2021.1914500.
+
+Jacobsen, Grant D., and Kathryn H. Jacobsen. 2020. “Statewide COVID‐19 Stay‐At‐Home Orders and Population Mobility in the United States.” World Medical & Health Policy, July. https://doi.org/10.1002/wmh3.350.
+
+Morgan, Steve. 2019. “Cybersecurity Jobs Report 2018-2021.” Cybercrime Magazine. July 19, 2019. https://cybersecurityventures.com/jobs/.
 
 Ozimek, Adam. 2020. “The Future of Remote Work.” SSRN Electronic Journal, May. https://doi.org/10.2139/ssrn.3638597.
 
