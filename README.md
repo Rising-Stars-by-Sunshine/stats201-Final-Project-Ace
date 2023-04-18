@@ -101,7 +101,7 @@ Figure 6 displays the search volume trend for the term "remote jobs" over a peri
 
 *Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)*
 
-**Cybersecurity and AI Ethics**
+**Figure 7: Cybersecurity and AI Ethics**
 
 ![Cybersecurity, AI Ethics Analysis](https://user-images.githubusercontent.com/122700704/232665080-d454b549-3f4d-41c8-8d66-c0212f6fd149.png)
 
