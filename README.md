@@ -315,7 +315,25 @@ Tursunbayeva, Aizhan, Stefano Di Lauro, and Gilda Antonelli. 2021. “Remote Wor
   organization = {The New York Times},
   journal = {The New York Times}
 }
-![image](https://user-images.githubusercontent.com/122700704/223400778-a66b17a9-8a52-4eff-bdc7-1431c17a7c9a.png)
+
+@misc{morgan_2019_cybersecurity,
+  author = {Morgan, Steve},
+  month = {07},
+  title = {Cybersecurity Jobs Report 2018-2021},
+  url = {https://cybersecurityventures.com/jobs/},
+  year = {2019},
+  organization = {Cybercrime Magazine}
+}
+
+@article{jacobsen_2020_statewide,
+  author = {Jacobsen, Grant D. and Jacobsen, Kathryn H.},
+  month = {07},
+  title = {Statewide COVID‚Äê19 Stay‚ÄêAt‚ÄêHome Orders and Population Mobility in the United States},
+  doi = {10.1002/wmh3.350},
+  year = {2020},
+  journal = {World Medical & Health Policy}
+}
+![image](https://user-images.githubusercontent.com/122700704/232665991-07deb16c-f6f0-4342-bd15-decea2acd191.png)
 
 ```
 
