@@ -73,7 +73,7 @@ Figure 2 displays a word cloud that visualizes the frequency of words used throu
 
 ![image](https://user-images.githubusercontent.com/122700704/232659154-4bc58c5b-fd8b-4e5a-8066-ca4061d70d06.png)
 
-*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)*
+*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work) Created By: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 
 Figure 3's regression analysis displays a steeper slope after COVID-19 quarantine orders in the US were placed (March 12, 2020) compared to before, indicating that there was a significant increase in the search popularity of "remote jobs" following the onset of the pandemic (Jacobsen and Jacobsen 2020). This is consistent with the fact that many people were forced to work from home as a result of the pandemic, and others may have been looking for alternative work arrangements due to economic uncertainty. It's also worth noting that the graph may reflect not only a change in people's behavior but also a change in how they search for information. Specifically, people may have been more likely to search for "remote jobs" specifically because of the pandemic, whereas they may have used different search terms in the past. Overall, the graph suggests that the COVID pandemic had a significant impact on the search popularity of "remote jobs," and this may reflect broader changes in how people work and seek employment.
 
@@ -92,6 +92,14 @@ The study examined the relationship between the COVID-19 pandemic and the increa
 *Created by [Whimsical](https://whimsical.com/)*
 
 Figure 5 presents a prediction that the analysis of causality will demonstrate a notable shift in the search volume for the term "remote jobs" before and following the onset of COVID-19 quarantine in the US. The study hypothesizes that interest in remote jobs will experience a substantial increase after the outbreak, and this trend will persist. The graph illustrates a positive slope that transitions to an even steeper positive slope, reinforcing the hypothesis.
+
+**Figure 6: Google Search for "Remote Jobs" Over 5-Year Span**
+
+<img width="1140" alt="Screen Shot 2023-02-28 at 7 12 22 PM" src="https://user-images.githubusercontent.com/122700704/232664041-9b1961a5-4753-4bfe-82dd-9f9fad5316d5.png">
+
+Figure 6 displays the search volume trend for the term "remote jobs" over a period of five years. The graph depicts an initial surge in 2020, which has since sustained and carried forward up until 2023.
+
+*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
 
 **Cybersecurity and AI Ethics**
 
