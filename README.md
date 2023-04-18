@@ -149,7 +149,7 @@ In conclusion, this course has been a transformative experience, providing me wi
 - [“Remote Work Before, During, and after the Pandemic.”](https://www.ncci.com/SecureDocuments/QEB/QEB_Q4_2020_RemoteWork.html)
 - [“A Two-Year, 50-Million-Person Experiment in Changing How We Work.”](https://www.nytimes.com/2022/03/10/business/remote-work-office-life.html)
 - [“Accelerating Remote Work after COVID-19.”](https://www.thecgo.org/research/accelerating-remote-work-after-covid-19/)
-- [Parker, Kim, Juliana Horowitz, and Rachel Minkin. 2020. “How Coronavirus Has Changed the Way Americans Work.”](https://www.pewresearch.org/social-trends/2020/12/09/how-the-coronavirus-outbreak-has-and-hasnt-changed-the-way-americans-work/)
+- [“How Coronavirus Has Changed the Way Americans Work.”](https://www.pewresearch.org/social-trends/2020/12/09/how-the-coronavirus-outbreak-has-and-hasnt-changed-the-way-americans-work/)
 
 ### Literature
 
@@ -176,8 +176,6 @@ Jacobsen, Grant D., and Kathryn H. Jacobsen. 2020. “Statewide COVID‐19 Stay�
 Morgan, Steve. 2019. “Cybersecurity Jobs Report 2018-2021.” Cybercrime Magazine. July 19, 2019. https://cybersecurityventures.com/jobs/.
 
 Ozimek, Adam. 2020. “The Future of Remote Work.” SSRN Electronic Journal, May. https://doi.org/10.2139/ssrn.3638597.
-
-Parker, Kim, Juliana Horowitz, and Rachel Minkin. 2020. “How Coronavirus Has Changed the Way Americans Work.” Pew Research Center’s Social & Demographic Trends Project. December 9, 2020. https://www.pewresearch.org/social-trends/2020/12/09/how-the-coronavirus-outbreak-has-and-hasnt-changed-the-way-americans-work/.
 
 Tomić, Damir, and Karla Vizinger. 2023. “Effects of Remote Business during the Covid-19 Pandemic - a Literature Review.” American Journal of Economics and Business Innovation 2 (1): 1–13. https://doi.org/10.54536/ajebi.v2i1.1088.
 
