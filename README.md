@@ -79,7 +79,7 @@ Figure 3's regression analysis displays a steeper slope after COVID-19 quarantin
 
 **Figure 4: Project Poster**
 
-![A  Asim: STATS-201 Final Project](https://user-images.githubusercontent.com/122700704/223381091-2f4d790f-8a92-4fde-818f-d1a0a94d0c98.png)
+![A  Asim | STATS-201 Final Project](https://user-images.githubusercontent.com/122700704/232679818-7b736981-f921-4832-bd59-62a61ae931d8.png)
 
 [A. Asim: STATS-201 Final Project -- PDF Version](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Ace/files/10907880/A.Asim.STATS-201.Final.Project.pdf)
 
