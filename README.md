@@ -85,6 +85,13 @@ Figure 3's regression analysis displays a steeper slope after COVID-19 quarantin
 
 The study examined the relationship between the COVID-19 pandemic and the increase in remote jobs in the United States. The data were collected by analyzing the popularity of the search term "remote jobs" on Google Trends from March 2018 to February 2023. The study found that there was a significant increase in interest in remote job postings in the USA starting from the last week of February 2020 to the middle of March 2020. During this period, the number of interest, measured by searches, led to a 145% increase. Following the initial spike, the interest in remote jobs has continued to rise steadily, with a 12% increase from March 2020 to February 2023. The rate of searches also increased by 268.97% from 0.0126 to 0.0465. The results support the hypothesis that COVID-19 has led to a surge in the popularity of remote jobs, with companies and organizations becoming more resourceful in creating online jobs. The study highlights the impact of the pandemic on the job market and the potential benefits of increased flexibility and opportunities for online work. However, the study only pertains to the United States and does not provide insight into the quality of remote jobs, which may affect job retention. Further research could explore these factors and their implications for the future of work.
 
+**Figure 5: Prediction**
+
+<img width="511" alt="Screen Shot 2023-02-28 at 7 07 09 PM" src="https://user-images.githubusercontent.com/122700704/232663052-4288485f-50b2-4a7a-8ad4-cb8375ebdf1d.png">
+
+*Created by [Whimsical](https://whimsical.com/)*
+
+Figure 5 presents a prediction that the analysis of causality will demonstrate a notable shift in the search volume for the term "remote jobs" before and following the onset of COVID-19 quarantine in the US. The study hypothesizes that interest in remote jobs will experience a substantial increase after the outbreak, and this trend will persist. The graph illustrates a positive slope that transitions to an even steeper positive slope, reinforcing the hypothesis.
 
 **Cybersecurity and AI Ethics**
 
