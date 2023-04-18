@@ -99,7 +99,7 @@ Figure 5 presents a prediction that the analysis of causality will demonstrate a
 
 Figure 6 displays the search volume trend for the term "remote jobs" over a period of five years. The graph depicts an initial surge in 2020, which has since sustained and carried forward up until 2023.
 
-*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)
+*Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work)*
 
 **Cybersecurity and AI Ethics**
 
